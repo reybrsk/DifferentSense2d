@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: c4c2878078ef8524b885dbdcf202ff61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4475240703647516335
+    second: chest_common_idle_1
+  - first:
+      213: 1421585357976267405
+    second: chest_common_idle_2
+  - first:
+      213: -4274459597901640234
+    second: chest_common_open_1
+  - first:
+      213: 5818634640736372967
+    second: chest_common_open_2
+  - first:
+      213: 1045840139763206449
+    second: chest_common_open_3
+  - first:
+      213: 3246238478991946202
+    second: chest_common_open_4
+  - first:
+      213: -1341695710774190936
+    second: chest_common_open_5
+  - first:
+      213: -8230053365335135057
+    second: chest_common_open_6
+  - first:
+      213: -4302426630414972689
+    second: chest_common_open_7
+  - first:
+      213: -5135832259918550782
+    second: chest_common_open_8
+  - first:
+      213: -1463168091931277656
+    second: chest_common_open_9
+  - first:
+      213: 8461867926487104306
+    second: chest_common_open_10
+  - first:
+      213: -3027069254063370422
+    second: chest_common_open_11
+  - first:
+      213: -1049337549717476348
+    second: chest_common_open_12
+  - first:
+      213: 5855439188580335734
+    second: chest_common_open_13
+  - first:
+      213: -2871893888610457282
+    second: chest_common_open_14
+  - first:
+      213: -112078391721900271
+    second: chest_common_open_15
+  - first:
+      213: 4823419210160607153
+    second: chest_common_opened_1
+  - first:
+      213: 4607981749430788233
+    second: chest_common_opened_2
+  - first:
+      213: 7445239662157679681
+    second: chest_common_down_idle_1
+  - first:
+      213: 3492328446651652736
+    second: chest_common_down_idle_2
+  - first:
+      213: 3344094745172106842
+    second: chest_common_down_open_1
+  - first:
+      213: -5402012472757472757
+    second: chest_common_down_open_2
+  - first:
+      213: -9031787924965899295
+    second: chest_common_down_open_3
+  - first:
+      213: -2529979849890050544
+    second: chest_common_down_open_4
+  - first:
+      213: 5408963644422008192
+    second: chest_common_down_open_5
+  - first:
+      213: 538004392325415326
+    second: chest_common_down_open_6
+  - first:
+      213: -7652746614003549688
+    second: chest_common_down_open_7
+  - first:
+      213: -1076081942277197757
+    second: chest_common_down_open_8
+  - first:
+      213: 5841506171052142418
+    second: chest_common_down_open_9
+  - first:
+      213: 7375763587694821232
+    second: chest_common_down_open_10
+  - first:
+      213: 3942637027313937423
+    second: chest_common_down_open_11
+  - first:
+      213: -749670152823342978
+    second: chest_common_down_open_12
+  - first:
+      213: 7744448436691669034
+    second: chest_common_down_open_13
+  - first:
+      213: -5385119576962814344
+    second: chest_common_down_open_14
+  - first:
+      213: -6396839869088465119
+    second: chest_common_down_open_15
+  - first:
+      213: 172154723105540865
+    second: chest_common_down_opened_1
+  - first:
+      213: 1734036056845967547
+    second: chest_common_down_opened_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chest_common_down_idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cce82b60ec25760800000000000000
+      internalID: 7445239662157679681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_idle_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 210
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ad9a5183e377030800000000000000
+      internalID: 3492328446651652736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 210
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5edb35f37c986e20800000000000000
+      internalID: 3344094745172106842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 210
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02bf01f6423805b0800000000000000
+      internalID: -5402012472757472757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 210
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3ceb51cb4a8a280800000000000000
+      internalID: -9031787924965899295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e486e1bb4b3ecd0800000000000000
+      internalID: -2529979849890050544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 164
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08da6c4d6cf701b40800000000000000
+      internalID: 5408963644422008192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 164
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e910824f420677700800000000000000
+      internalID: 538004392325415326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 164
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80abe34208bfbc590800000000000000
+      internalID: -7652746614003549688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 164
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340fa51cc2df011f0800000000000000
+      internalID: -1076081942277197757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fa0d6b9e2311150800000000000000
+      internalID: 5841506171052142418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 118
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f7fcf87e9fb5660800000000000000
+      internalID: 7375763587694821232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 118
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c6953cc7f07b630800000000000000
+      internalID: 3942637027313937423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 118
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78704ac7f2a895f0800000000000000
+      internalID: -749670152823342978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 118
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20165242dec97b60800000000000000
+      internalID: 7744448436691669034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e212eb6463445b0800000000000000
+      internalID: -5385119576962814344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_open_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 72
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ffcede70cd937a0800000000000000
+      internalID: -6396839869088465119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_opened_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b8c1dfecd936200800000000000000
+      internalID: 172154723105540865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_common_down_opened_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 72
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0e50c3b98801810800000000000000
+      internalID: 1734036056845967547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
